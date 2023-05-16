@@ -1,0 +1,1 @@
+{'a': 'currency', 'b': 'amount', 'c': 'Owner'}

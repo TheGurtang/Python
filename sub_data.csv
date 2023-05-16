@@ -1,0 +1,19 @@
+|{'Login: ': <tkinter.Entry object .!entry>, 'Password: ': <tkinter.Entry object .!entry2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': <tkinter.Entry object .!entry>, 'Password: ': <tkinter.Entry object .!entry2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': <tkinter.Entry object .!entry>, 'Password: ': <tkinter.Entry object .!entry2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': <tkinter.Entry object .!entry>, 'Password: ': <tkinter.Entry object .!entry2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': <tkinter.Entry object .!entry>, 'Password: ': <tkinter.Entry object .!entry2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': <tkinter.Text object .!text>, 'Password: ': <tkinter.Text object .!text2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': <tkinter.Text object .!text>, 'Password: ': <tkinter.Text object .!text2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': <tkinter.Entry object .!entry>, 'Password: ': <tkinter.Entry object .!entry2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': <tkinter.StringVar object at 0x000001E5A861BB80>, 'Password: ': <tkinter.StringVar object at 0x000001E5A87BF4F0>, 'E-mail: ': <tkinter.StringVar object at 0x000001E5A87BF3D0>}|
+|{'Login: ': <tkinter.StringVar object at 0x000001E5A861BB80>, 'Password: ': <tkinter.StringVar object at 0x000001E5A87BF4F0>, 'E-mail: ': <tkinter.StringVar object at 0x000001E5A87BF3D0>}|
+|{'Login: ': <tkinter.StringVar object at 0x000001E5A861BB80>, 'Password: ': <tkinter.StringVar object at 0x000001E5A87BF4F0>, 'E-mail: ': <tkinter.StringVar object at 0x000001E5A87BF3D0>}|
+|{'Login: ': None, 'Password: ': None, 'E-mail: ': None}|
+|{'Login: ': None, 'Password: ': None, 'E-mail: ': None}|
+|{'Login: ': <tkinter.Entry object .!entry>, 'Password: ': <tkinter.Entry object .!entry2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': <tkinter.Entry object .!entry>, 'Password: ': <tkinter.Entry object .!entry2>, 'E-mail: ': <tkinter.Entry object .!entry3>}|
+|{'Login: ': 'Ear', 'Password: ': '12324', 'E-mail: ': 'sdfsdf@sdfdsf.com'}|
+|{'Login: ': 'Ear', 'Password: ': '12324', 'E-mail: ': 'sdfsdf@sdfdsf.com'}|
+|{'Login: ': 'Ear', 'Password: ': '12324', 'E-mail: ': 'sdfsdf@sdfdsf.com'}|
+|{'Login: ': 'Ear', 'Password: ': '12324', 'E-mail: ': 'sdfsdf@sdfdsf.com'}|

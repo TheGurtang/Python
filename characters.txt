@@ -1,0 +1,1 @@
+[{"player_name": "Elric", "experience": "level 11", "gold": 180, "weapon": ["Stormbringer", "dagger", "scroll"]}, {"player_name": "Rachir", "experience": "level 12", "gold": 90, "weapon": ["Crimson_bow", "curved_sword", "black_arrows"]}]
